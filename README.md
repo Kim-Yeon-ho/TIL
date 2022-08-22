@@ -10,7 +10,6 @@
 
 ## Stacks
 
----
 
 [IOS](https://www.notion.so/IOS-47fed87a357b4d0c926d83400882b83e)
 
@@ -24,6 +23,5 @@
 
 ## How to Upload
 
----
 
 [How to upload](https://www.notion.so/How-to-upload-d58663e2bdd3400ea956c5941e1d35f2)
