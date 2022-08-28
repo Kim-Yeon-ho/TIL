@@ -30,7 +30,7 @@ class LinearActivity : AppCompatActivity() {
 
 
         btn3.setOnClickListener {
-            Toast.makeText(this,"이 버튼은 직접 구현해보세요!",Toast.LENGTH_SHORT).show()
+            Toast.makeText(this,"이 버튼은 직접 구현해 보세요!",Toast.LENGTH_SHORT).show()
             //이곳에 ConstraintLayout Activity으로 이동할 수 있는 코드를 작성해보세요!
             /**
              * 정답
