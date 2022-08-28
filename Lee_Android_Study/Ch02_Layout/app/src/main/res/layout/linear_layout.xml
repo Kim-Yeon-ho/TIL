@@ -4,10 +4,12 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
+    tools:ignore="false"
     tools:context=".LinearActivity">
 
-    <TextView
-        android:id="@+id/textView4"
+
+    <Button
+        android:id="@+id/goRelativity"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_weight="1"
@@ -19,8 +21,8 @@
         android:textSize="20sp"
         android:textStyle="bold" />
 
-    <TextView
-        android:id="@+id/textView5"
+    <Button
+        android:id="@+id/goFrameActivity"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_weight="1"
@@ -32,8 +34,8 @@
         android:textSize="20sp"
         android:textStyle="bold" />
 
-    <TextView
-        android:id="@+id/textView6"
+    <Button
+        android:id="@+id/goConstActivity"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_weight="1"
@@ -44,4 +46,6 @@
         android:textColor="@color/white"
         android:textSize="20sp"
         android:textStyle="bold" />
+
+
 </LinearLayout>
